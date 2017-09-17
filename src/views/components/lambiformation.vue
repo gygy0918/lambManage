@@ -1,6 +1,6 @@
 <template>
   <section style="margin:50px">
-    <el-row>
+    <el-row style="display:none">
       <el-col :span="24">
         <!--表单-->
         <el-form :inline="true" :model="formInline" class="demo-form-inline">
