@@ -17,7 +17,7 @@
       data() {
         return {
           currentRole: 'EditorDashboard',
-          imgurl:'../../assets/401.gif'
+          imgurl:'../../assets/1.gif'
         }
       },
       computed: {
